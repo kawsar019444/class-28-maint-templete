@@ -1,0 +1,24 @@
+@media (max-width:992px){
+    .counter-text {
+        margin-top: 50px;
+    }
+    .counter-section {
+        padding-bottom: 47px;
+        padding-top: 0;
+    }
+    .my-item{
+        margin: auto;
+    }
+    .margin-top{
+        margin-top: 90px;
+    }
+    .teem-history{
+        padding-top: 0 !important;
+    }
+    .slider-section-one .slider-text {
+        margin-top: 60px;
+    }
+    .slider-section-two .slider-text {
+        margin-top: 36px;
+    }
+}

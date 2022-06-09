@@ -1,0 +1,121 @@
+body, h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+/* header-section */
+.my-header img{
+    width: 95px;
+}
+
+/* slider-section */
+.slider-section {
+	margin-top: 75px;
+}
+.slider-section .slider-section-one {
+    background-color: #f9f9ff;
+}
+.slider-section-one .slider-text{
+    margin-top: 180px;
+}
+.slider-section-two .slider-text{
+    margin-top: 130px;
+}
+/* counter section */
+.counter-section{
+    background-color: #8490ff;
+    padding: 80px 0;
+    color: #fff;
+}
+
+/* prising section */
+.prising-section{
+	background-color: #f7f9ff;
+}
+.prising-item{
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+	box-sizing: border-box;
+	padding: 40px;
+    padding-top: 10px !important;
+}
+.prising-item .my-one {
+	width: 90px;
+	height: 90px;
+	background-color: rgb(221, 221, 221, .4);
+	line-height: 93px;
+}
+.prising-item ul{
+	list-style: none;
+	padding: 0;
+}
+.prising-item .my-btn .btn2{
+	background-color: #ffff;
+	color:#6278df ;
+	font-size: 20px;
+	padding: 12px 20px;
+	transition: .5s;
+}
+.prising-item .my-btn .btn2:hover{
+	color: #ffff;
+	background-color: black;
+}
+.prising-item:hover .btn2{
+	background-color: #6278df;
+	color: white;
+}
+
+/* teem-history */
+.card .img-div img{
+	width: 100px;
+	height: 100px;
+}
+.position{
+	position: relative;
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+.position .img-div {
+	position: absolute;
+	top: -50px;
+	left: 22px;
+	width: 100%;
+	height: 100%;
+}
+.position .btn-my {
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+	padding: 8px 20px;
+	transition: .5s;
+}
+.position .btn-my:hover {
+	background-color: rgba(0, 0, 0, .8);
+	color: #fff;
+}
+
+/* form-section */
+.form-section{
+    background-color: #f9f9ff;
+}
+.my-form{
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+.my-form textarea{
+height: 200px !important;
+}
+.my-text .btn4{
+	background-color: #17a2b8;
+	color: #fff;
+	transition: .5s;
+	padding: 10px 20px;
+}
+.my-text .btn4:hover{
+	color: #17a2b8;
+	background-color: #fff;
+}
+.form-text {
+	margin-top: 100px;
+	margin-left: 23px;
+}
+.form-text ul{
+    list-style: none;
+    padding-left: 0;
+}
